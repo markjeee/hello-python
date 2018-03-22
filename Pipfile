@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [[source]]
-url = "https://pypi.fury.io/markjeee/"
+url = "https://repo.markjeee.com/pypi/"
 verify_ssl = true
 name = "fury"
 
